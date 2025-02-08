@@ -1,0 +1,1 @@
+Work in progress formalization of measure-theoretic Markov Decision Processes and the category of MDPs inspired by the paper [Categorical Semantics of Compositional Reinforcement Learning](https://arxiv.org/pdf/2208.13687) (Georgios Bakirtzis, Michail Savvas, and Ufuk Topcu)
